@@ -4,6 +4,10 @@ package robots;
  * JUST TRYING GIT. HOLA WAPOS.
  */
 
+
+/**
+ * VERSION 2 de la prueba
+ */
 import java.awt.Color;
 import java.awt.geom.Point2D;
  
